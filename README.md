@@ -1,4 +1,4 @@
-# Discord April Fools Mass Rename
+# Discord April Fools
 Code for a Discord Bot that renames every person on a discord server to a chosable text.
 
 > [!CAUTION]
