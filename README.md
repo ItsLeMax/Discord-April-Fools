@@ -8,7 +8,7 @@ Code for a Discord Bot that renames every person on a discord server to a chosab
 - A Discord Bot
 - NPM
 - Node
-Alternatives may work aswell.
+- Alternatives may work aswell.
 
 ## Preparations
 - You need to have a bot that runs the code. You can create one [here](https://discord.com/developers/applications). [This guide](https://discord.com/developers/docs/quick-start/getting-started) may be helpful.
