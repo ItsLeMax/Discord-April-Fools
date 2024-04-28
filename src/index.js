@@ -1,3 +1,5 @@
+const config = require("./config.json");
+
 /**
  * @description
  * Führt bestimmten Code aus.
@@ -31,7 +33,6 @@ const client = new Client({ intents });
 client.login(process.env.TOKEN);
 
 const userdata = require("./userdata.json");
-const config = require("./config.json");
 
 client.on("ready", async () => {
     const guild = client.guilds.cache.get(config.guild_id);
