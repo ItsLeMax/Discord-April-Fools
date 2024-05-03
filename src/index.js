@@ -1,11 +1,6 @@
 const config = require("./config.json");
 
 /**
- * @description
- * Führt bestimmten Code aus.
- * 
- * Executes specific code.
-
  * @example
  * 0 = "Standard"
  * 1 = "Schritt 1: Alte Namen speichern"
@@ -18,8 +13,6 @@ const config = require("./config.json");
  * 2 = "Step 2: execute (rename everyone)"
  * 3 = "Step 3: rollback (original names)"
  * 404 = "Completely wipe userdata.json"
-
- * @author ItsLeMax
  */
 const level = config.command;
 
