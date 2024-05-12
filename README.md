@@ -5,10 +5,12 @@ Code for a Discord Bot that renames every person on a discord server to a chosab
 > This bot uses DiscordJS v13. Newer versions may be required and not work.
 
 ## Requirements
-- A Discord Bot (You can create one [here](https://discord.com/developers/applications). [This guide](https://discord.com/developers/docs/quick-start/getting-started) may be helpful.)
+> ...that may have working alternatives:
+- A Discord Bot\
+(You can create one [here](https://discord.com/developers/applications). [This guide](https://discord.com/developers/docs/quick-start/getting-started) may be helpful.)
+> ...that are necessary:
 - NPM (`npm install -g npm` inside a terminal, i.e. `cmd` in windows)
 - Node (executable [here](https://nodejs.org/en/download/))
-- Alternatives may work aswell.
 
 ## Setup
 1. Download the source code of this repository.
