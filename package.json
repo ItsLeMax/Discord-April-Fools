@@ -4,8 +4,12 @@
     "dotenv": "^16.3.1"
   },
   "name": "discord-april-fools",
-  "version": "31.3.22",
-  "main": "src/index.js",
+  "description": "Renames every person on a discord server to a chosable text",
+  "keywords": [
+    "discord",
+    "april-fools",
+    "renaming"
+  ],
   "author": "itslemax",
   "license": "AGPL-3.0-only"
 }
