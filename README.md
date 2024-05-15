@@ -13,7 +13,7 @@ Code for a Discord Bot that renames every person on a discord server to a chosab
 
 ## Setup
 1. Download the source code of this repository.
-2. Go inside the root folder (where the package.json is located), open up a terminal (on windows you can do so by clicking into the file path and typing in `cmd` as seen in the attached image) and execute `npm i`.
+2. Go inside the root folder (where the package.json is located), open up a terminal (on windows you can do so by clicking into the file path and typing in `cmd`) and execute `npm i`.
 3. Open the .env file and put your bots token in there behind the equal sign.
 4. Go inside the `src` folder, open up the config.json and change every property as needed. The `command` property will cause specific actions to be performed. Change it step by step (every bot execution as seen in step 5) to one of the following:
 ```
