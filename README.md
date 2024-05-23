@@ -1,5 +1,5 @@
 # Discord April Fools
-Code for a Discord Bot that renames every person on a discord server to a chosable text.
+Renames every person on a discord server to a chosable text
 
 > [!CAUTION]
 > This bot uses DiscordJS v13. Newer versions may be required and not work.
