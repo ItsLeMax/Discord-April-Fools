@@ -8,7 +8,6 @@ Renames every person on a discord server to a chosable text
 > ...that are necessary:
 - A Discord Bot (You can create one [here](https://discord.com/developers/applications). [This guide](https://discord.com/developers/docs/quick-start/getting-started) may be helpful.)
 > ...that may have working alternatives:
-- NPM (`npm install -g npm` inside a terminal, i.e. `cmd` in windows)
 - Node (executable [here](https://nodejs.org/en/download/))
 
 ## Setup
