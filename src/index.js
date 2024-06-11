@@ -28,7 +28,7 @@ client.login(process.env.TOKEN);
 const userdata = require("./userdata.json");
 
 client.on("ready", async () => {
-    const guild = client.guilds.cache.get(config.guild_id);
+    const guild = client.guilds.cache.get(config.guildId);
     const members = await guild.members.fetch();
 
     switch (level) {
