@@ -11,9 +11,9 @@ Renames every person on a discord server to a chosable text
 - Node (executable [here](https://nodejs.org/en/download/))
 
 ## Setup
-1. Download this source code by clicking on `<> Code` and `Download ZIP`\
+1. Download the source code by clicking on `<> Code` & `Download ZIP` and extract the content\
 ![download](https://github.com/ItsLeMax/Discord-April-Fools/assets/80857459/8560de24-1ff4-4cea-92f2-49ee3ca2fdac)
-2. (Extract the content and) go inside the root folder (where the package.json is located), open up a terminal (on windows you can do so by clicking into the file path and typing in `cmd`) and execute `npm i`\
+2. Open the root folder and inside it the terminal (typing `cmd` inside the file explorer path works) and execute `npm i`\
 ![cmd](https://github.com/ItsLeMax/Discord-April-Fools/assets/80857459/63eef1b2-aa2d-4ab1-92ce-4b3d2f0661ed)
 3. Open the .env file and put your bots token in there behind the equal sign
 4. Go inside the `src` folder, open up the config.json and change every property as needed. The `command` property will cause specific actions to be performed. Change it step by step (every bot execution as seen in step 5) to one of the following:
