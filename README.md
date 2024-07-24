@@ -10,7 +10,7 @@ Renames every person on a discord server to a chosable text
 > ...that may have working alternatives:
 - Node (executable [here](https://nodejs.org/en/download/))
 > ...that has working alternatives:
-- WinRAR or 7-Zip
+- 7-Zip (executable [here](https://7-zip.de/download.html))
 
 ## Setup
 1. Download the source code by clicking on `<> Code` & `Download ZIP` and extract its content\
