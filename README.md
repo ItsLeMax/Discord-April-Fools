@@ -9,9 +9,11 @@ Renames every person on a discord server to a chosable text
 - A Discord Bot (You can create one [here](https://discord.com/developers/applications). [This guide](https://discord.com/developers/docs/quick-start/getting-started) may be helpful.)
 > ...that may have working alternatives:
 - Node (executable [here](https://nodejs.org/en/download/))
+> ...that has working alternatives:
+- WinRAR or 7-Zip
 
 ## Setup
-1. Download the source code by clicking on `<> Code` & `Download ZIP` and extract the content\
+1. Download the source code by clicking on `<> Code` & `Download ZIP` and extract its content\
 ![download](https://github.com/ItsLeMax/Discord-April-Fools/assets/80857459/8560de24-1ff4-4cea-92f2-49ee3ca2fdac)
 2. Open the root folder and inside it the terminal (typing `cmd` inside the file explorer path works)\
 and execute `npm i`\
