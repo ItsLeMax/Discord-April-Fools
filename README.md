@@ -6,11 +6,12 @@ Renames every person on a discord server to a chosable text
 
 ## Requirements
 > ...that are necessary:
-- A Discord Bot (You can create one [here](https://discord.com/developers/applications). [This guide](https://discord.com/developers/docs/quick-start/getting-started) may be helpful.)
+- A [Discord Bot](https://discord.com/developers/applications) (You may use [this guide](https://discord.com/developers/docs/quick-start/getting-started))
 > ...that may have working alternatives:
-- Node (executable [here](https://nodejs.org/en/download/))
+- [Node](https://nodejs.org/en/download/prebuilt-installer)
+- Windows
 > ...that have working alternatives:
-- 7-Zip (executable [here](https://7-zip.de/download.html))
+- [7-Zip](https://7-zip.de/download.html)
 
 ## Setup
 1. Download the source code by clicking on `<> Code` & `Download ZIP` and extract its content\
