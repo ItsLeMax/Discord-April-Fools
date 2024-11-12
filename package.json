@@ -1,6 +1,14 @@
 {
   "name": "discord-april-fools",
   "description": "Renames every person on a discord server to a chosable text",
+  "author": "ItsLeMax",
+  "license": "AGPL-3.0-only",
+  "keywords": [
+    "Discord",
+    "April-Fools",
+    "Renaming",
+    "Names"
+  ],
   "dependencies": {
     "discord.js": "^13.6.0",
     "dotenv": "^16.3.1"
@@ -9,14 +17,6 @@
     "type": "git",
     "url": "git+https://github.com/ItsLeMax/Discord-April-Fools.git"
   },
-  "keywords": [
-    "Discord",
-    "April-Fools",
-    "Renaming",
-    "Names"
-  ],
-  "author": "ItsLeMax",
-  "license": "AGPL-3.0-only",
   "bugs": {
     "url": "https://github.com/ItsLeMax/Discord-April-Fools/issues"
   },
