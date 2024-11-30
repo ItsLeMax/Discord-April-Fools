@@ -1,7 +1,7 @@
-backup
+/.img/
 
-node_modules
+/backup
 
-package-lock.json
+/node_modules
 
-images
+/package-lock.json
