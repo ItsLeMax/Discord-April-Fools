@@ -22,6 +22,7 @@ Renames every person on a discord server to a chosable text\
 ![download](https://github.com/ItsLeMax/Discord-April-Fools/assets/80857459/8560de24-1ff4-4cea-92f2-49ee3ca2fdac)
 2. Open the root folder and inside it the terminal (typing `cmd` inside the file explorer path works)\
 and execute `npm i`. Keep the terminal open.\
+![cmd](https://github.com/user-attachments/assets/27ca1a08-f863-40ad-8c74-60b7abab702f)\
 ![1 0 0-npm](https://github.com/user-attachments/assets/dad09948-6938-4c59-bec5-f5e98456fe0d)
 3. Open the .env file and put your bots token in there behind the equal sign\
 ![1 0 0-env](https://github.com/user-attachments/assets/7d26a9fa-f6ef-420b-9030-7f22cc50fd8c)
