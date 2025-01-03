@@ -38,7 +38,7 @@ client.on("ready", async () => {
                     userId: member.user.id,
                     username: member.displayName
                 });
-                fs.writeFile('./src/userdata.json', JSON.stringify(userdata, null, "\t"));
+                fs.writeFile("./src/userdata.json", JSON.stringify(userdata, null, "\t"));
             });
 
             console.log("Die bisherigen Namen wurden erfolgreich gespeichert.", "Previous names were saved successfully.");
@@ -68,7 +68,7 @@ client.on("ready", async () => {
             break;
         case 404:
             userdata.user = [];
-            fs.writeFile('./src/userdata.json', JSON.stringify(userdata, null, "\t"));
+            fs.writeFile("./src/userdata.json", JSON.stringify(userdata, null, "\t"));
 
             console.log("Die Konfigurationsdatei wurde geleert.", "The configuration file has been wiped.");
             break;
